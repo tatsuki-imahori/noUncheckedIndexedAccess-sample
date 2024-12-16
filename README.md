@@ -1,8 +1,4 @@
-以下のように簡潔な`README.md`を作成しました：
-
 ---
-
-```markdown
 # noUncheckedIndexedAccess Sample
 
 This repository demonstrates the usage of the `noUncheckedIndexedAccess` compiler option in TypeScript.
@@ -42,8 +38,3 @@ console.log(upperValue); // "Default"
 - Encourages safer, more predictable code.
 
 Feel free to explore the examples in this repository!
-```
-
----
-
-このファイルを`README.md`として保存してリポジトリに追加してください！必要に応じてさらに簡略化や調整ができます。
